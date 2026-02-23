@@ -1,1 +1,1 @@
-# c-mini-projct
+# c-mini-projcet
